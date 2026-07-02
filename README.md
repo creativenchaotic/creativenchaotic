@@ -8,8 +8,8 @@
 
 -Currently collaborating on educational and creative tech projects through Cyber in Schools Outreach
 
--🌱 I’m currently focused on front-end development (React / TypeScript), UI systems, and product-focused design engineering
+🌱 I’m currently focused on front-end development (React / TypeScript), UI systems, and product-focused design engineering
 
--💞️ I enjoy building creative, user-focused projects — from web apps and interactive tools to games and experimental digital experiences
+💞️ I enjoy building creative, user-focused projects — from web apps and interactive tools to games and experimental digital experiences
 
--📫 How to reach me → https://www.creativenchaotic.com/
+📫 How to reach me → https://www.creativenchaotic.com/
